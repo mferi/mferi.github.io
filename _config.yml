@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: Data Engineer's Notes
+description: A place to gather notes in my never ending journey as Data Engineer
+show_downloads: false
+google_analytics:
